@@ -1,29 +1,21 @@
 .faithIntroContainer {
-    /* display: flex; */
-    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
 }
 
-.faithContainer {
+/* .faithContainer {
     display: flex;
     justify-content: center;
-}
+} */
 
 .faithText  {
-    display: flex;
+    /* display: flex; */
+    text-align: center;
+    margin-bottom: 3rem;
 }
 
-.faithAbout {
+/* .faithAbout {
     display: flex;
-}
+} */
 
-.hikeImage {
-    display: flex;
-    justify-content: center;
-    border: double black;
-    
-    
-}
-.hikePeak {
-    
-    
-}
