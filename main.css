@@ -2,4 +2,59 @@
     display: flex;
     justify-content: center;
 }
-    
+
+.section__header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.section__header2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-container-center {
+    display: flex;
+    justify-content: center
+
+
+}
+
+.hike__container1 {
+    flex-wrap: wrap;
+    border: 2px solid white; 
+    background-color: azure;
+    flex-direction: column;
+    width: 20rem;
+}
+
+.hike__container2 {
+    flex-wrap: wrap;
+    border: 2px solid white;
+    background-color: azure;
+    width: 15rem;
+  
+}
+
+.mainNavContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.navTextContainer {
+    display: block;
+}
+
+body {
+background-image: url("https://iphonewallpaperworld.com/wp-content/uploads/2020/03/desktop-wallpaper-12.jpg");
+    /* background-repeat: repeat-x; */
+    background-size: cover;
+    background-attachment: scroll;
+}
+
