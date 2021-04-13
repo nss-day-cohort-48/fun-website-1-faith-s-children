@@ -1,0 +1,21 @@
+.topHikeInfo {
+    display: flex;
+    background: ivory;
+    border: double black;    
+    margin-left: 25rem;
+    margin-right: 25rem;
+    box-shadow: 3px 3px 3px;
+}
+
+
+.hikePeak {
+     /* object-fit: contain; */
+    max-height: 20rem;
+    margin: 2rem
+ }
+
+.hikeInfo {
+    
+    padding-top: 2rem;
+    padding-right: 2rem;
+}
