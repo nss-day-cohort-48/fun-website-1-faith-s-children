@@ -1,21 +1,20 @@
-.faithIntroContainer {
-    display: flex;
-    flex-direction: column;
-    /* justify-content: center; */
+.faithAbout {
+    margin: 7rem;
+    
 }
 
-/* .faithContainer {
-    display: flex;
-    justify-content: center;
-} */
-
-.faithText  {
-    /* display: flex; */
+.faithText {
     text-align: center;
-    margin-bottom: 3rem;
+    flex-wrap: wrap;
+    background-color: white;
+    border: double black;
+    box-shadow: 0px 0px 10px rgb(112 112 112);
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
-/* .faithAbout {
-    display: flex;
-} */
+.faithList {
+    margin-top: 0px;
+}
 
