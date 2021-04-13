@@ -1,0 +1,19 @@
+.nav {
+    background-color: red;
+}
+
+.header {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    display: flex;
+    margin-left: 10em;
+    border: 1px red solid;
+    max-width: 50rem;
+}
+
+.second-img {
+    max-width: 19rem;
+}
