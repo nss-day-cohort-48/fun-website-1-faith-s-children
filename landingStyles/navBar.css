@@ -1,0 +1,10 @@
+.mainNavContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.navTextContainer {
+    display: block;
+}
