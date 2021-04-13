@@ -12,22 +12,37 @@ body {
     font-family: 'RocknRoll One', sans-serif;
 }
 
-.mainNavContainer {
-    display: flex;
-    flex-wrap: wrap;
+.nav {
     justify-content: center;
     margin-bottom: 3rem;
-    margin-top: 2rem;
+    padding-top: 30px;
+    padding-bottom: 18px;
+    background-color: rgb(34, 8, 83);
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
-.navTextContainer {
-    display: block;
+a.nav-link {
+    color: white;
+    padding: 0 3rem;
+    margin: 0 1rem;
+    margin-bottom: .5rem;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.btn {
+    color: white;
 }
 
 .header {
     text-align: center;
     padding: 20px;
     margin: 60px 0;
+    margin-top: 10rem;
 }
 
 .article {
