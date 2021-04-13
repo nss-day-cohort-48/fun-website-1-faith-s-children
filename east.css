@@ -21,7 +21,6 @@
     display: flex;
     justify-content: center
 
-
 }
 
 .hike__container1 {
@@ -29,17 +28,46 @@
     border: 2px solid white; 
     background-color: azure;
     flex-direction: column;
-    width: 20rem;
+    width: 30rem;
+    margin: 2rem;
+    padding: 1rem;
+}
+.hike__specs1 {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hike__specs2 {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .hike__container2 {
     flex-wrap: wrap;
     border: 2px solid white;
     background-color: azure;
-    width: 15rem;
+    width: 30rem;
+    margin: 2rem;
+    padding: 1rem;
   
 }
 
+.hike__ridge {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: auto;
+    
+}
+
+.hike__waterfall {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: auto;
+}
 .mainNavContainer {
     display: flex;
     flex-wrap: wrap;
