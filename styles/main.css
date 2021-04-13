@@ -1,0 +1,43 @@
+h2{
+    text-align: center;
+}
+
+.locations {
+    flex-direction: row;
+
+}
+.location-1 {
+    display: flex;
+    padding-left: 20rem;
+
+}
+
+.location-2 {
+    display: flex;
+    padding-left: 20rem;
+
+}
+
+.location-1-text {
+
+}
+
+.fullerStatePark {
+
+    max-width: 40rem;
+    padding-top: 3rem;
+    height: 25rem;
+
+    
+}
+
+.fortPillowStatePark {
+    max-width: 18.75rem;
+    height: 25rem;
+    
+}
+
+.navbar {
+    text-align: center;
+}
+
